@@ -1,3 +1,3 @@
-### *👋Hi! Nice to meet you*<br/><br/>
+### *👋Hi! Nice to meet you*<br/>
 
-[me](https://yanqi.me)
+<a href="https://yanqi.me" target="_blank">me</a>
